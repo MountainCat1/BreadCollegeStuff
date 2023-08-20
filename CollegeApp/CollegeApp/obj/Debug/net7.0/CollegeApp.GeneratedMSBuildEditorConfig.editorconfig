@@ -52,26 +52,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Mountain Cat/Projects/Web Dev/BreadCollegeStuff/CollegeApp/CollegeApp/Views/Workshops/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Mountain Cat/Projects/Web Dev/BreadCollegeStuff/CollegeApp/CollegeApp/Views/Workshops/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Mountain Cat/Projects/Web Dev/BreadCollegeStuff/CollegeApp/CollegeApp/Views/Workshops/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Mountain Cat/Projects/Web Dev/BreadCollegeStuff/CollegeApp/CollegeApp/Views/Workshops/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Mountain Cat/Projects/Web Dev/BreadCollegeStuff/CollegeApp/CollegeApp/Views/Workshops/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya3Nob3BzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Mountain Cat/Projects/Web Dev/BreadCollegeStuff/CollegeApp/CollegeApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

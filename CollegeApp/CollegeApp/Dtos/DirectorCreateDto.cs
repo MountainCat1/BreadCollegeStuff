@@ -1,7 +1,4 @@
-﻿using CollegeApp.Entities;
-using Microsoft.AspNetCore.Razor.Language.Intermediate;
-
-namespace CollegeApp.Dtos;
+﻿namespace CollegeApp.Dtos;
 
 public class DirectorCreateDto
 {

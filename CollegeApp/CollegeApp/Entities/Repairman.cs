@@ -1,7 +1,10 @@
 ﻿namespace CollegeApp.Entities;
 
-public class Director
+public class Repairman
 {
-    public Guid Id { get; set; } // PK
+    public Guid Id { get; set; }
+    
     public string FullName { get; set; }
+    
+    
 }

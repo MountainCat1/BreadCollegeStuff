@@ -1,7 +1,10 @@
 ﻿namespace CollegeApp.Entities;
 
-public class Director
+public class Sector
 {
     public Guid Id { get; set; } // PK
-    public string FullName { get; set; }
+
+    public string Name { get; set; }
+    
+    
 }
